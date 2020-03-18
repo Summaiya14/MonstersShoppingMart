@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NavActivitytwo"
+    android:background="#000000"
+    >
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Monsters Shopping Mart provide facilities to the people to buy their necessary things within an hour and without going to shop! Monsters Shopping Mart allows you to get product details and make a smooth and secure purchase. The items are affordable for anyone. They are expensive but good in quality.
+We have collections of clothes, wrist watches, perfumes, shoes, bags and not forgetting cosmetics of different styles and brands like Ideas by Gul Ahmed, Huda Beauty, Diners, Gucci, Bata etc. If you want to save your precious time then get in to the monsters mart and enjoy. If you find any query and issue in service or quality you can surely vist our head quarters
+which are at NED University of engineering and technology and the other at Saddar town."
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite"
+        android:textSize="15sp" />
+</LinearLayout>
